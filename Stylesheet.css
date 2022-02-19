@@ -1,8 +1,20 @@
 h1{font-family: 'Redressed', cursive;}
 .navbar-brand{font-family: 'Redressed', cursive;}
 .hunger{width:450px;
-margin:0 auto 0 auto;}
-.hunger1{width:450px;}
-.hunger2{width:449px;
-margin:0 auto 0 0;
+margin-top: 13px;}
+.hunger1{width:450px;
+margin-top: 13px;}
+.hunger2{width:439px;
+margin-top: 10px; 
 }
+.sec2-2{
+margin-top: 20px;
+margin-left:1px
+}
+h3{
+    text-align: center;
+    color: #3a1414;
+    font-size:34px;
+    font-weight: 750;
+}
+p{ font-size: 20px; }
