@@ -19,3 +19,6 @@ h3{
 }
 p{ font-size: 20px; }
 h4{text-align: center;}
+.card{float:left;
+	margin-left:125px; 
+text-align: center;}
