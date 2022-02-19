@@ -25,3 +25,21 @@ text-align: center;}
 .bg{background: #3A1414;}
 .bolder-txt-2{font-size: 70px;
 margin-top: 50px;}
+.mt-100 {
+    margin-top: 100px;
+}
+.mb-50 {
+    margin-bottom: 50px;
+}
+.mt-100{font-weight: 500;
+    line-height: 1.2;
+font-size: 2.3rem;
+    display: block;
+font-family: 'Indie Flower', cursive;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;}
+    .fck{font-family: 'Darker Grotesque', sans-serif;
+font-size:2rem;}
