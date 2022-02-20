@@ -1,4 +1,6 @@
 h1{font-family: 'Redressed', cursive;}
+.card{border-radius:8px;
+border-width: medium;}
 .navbar-brand{font-family: 'Redressed', cursive;}
 .hunger{width:450px;
 margin-top: 13px;}
@@ -43,3 +45,4 @@ font-family: 'Indie Flower', cursive;
     font-weight: bold;}
     .fck{font-family: 'Darker Grotesque', sans-serif;
 font-size:2rem;}
+
